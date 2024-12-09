@@ -1,8 +1,8 @@
-<h1 align="center">
-  <a href="https://github.com/EDUNI11">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Edu+Nievas;Full+Stack+Developer" alt="Typing SVG">
-  </a>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Edu+Nievas;Full+Stack+Developer" alt="Typing SVG">
+</p>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <p align="center">
   <a href="https://linkedin.com/in/eduni" target="_blank">
@@ -66,7 +66,7 @@ Hello! 👋 My name is **Edu Nievas**, a 20-year-old passionate developer curren
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EDUNI11&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EDUNI11&theme=dark&hide_border=false" alt="GitHub Streak">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=EDUNI11&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages">
+  <br><img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=EDUNI11&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages">
 </p>
 
 ---
